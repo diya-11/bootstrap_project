@@ -1,5 +1,7 @@
 body {
-    background-color: #ebf2ff;
+  background-image: linear-gradient(
+    to right, #f77c64 0%, #ab9ef7 51%, #f8c870 100% 
+   );
     font-family: "Poppins", sans-serif;
   }
   
